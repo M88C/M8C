@@ -1,0 +1,9 @@
+.M8C textarea{background-color:#4b0082;border:0 none;color:#fcf800;direction:ltr;display:block;font:14px arial;height:200px;margin:0 auto;overflow:auto;padding:0;text-align:left;width:100%}
+
+.M8C iframe{box-shadow:0 0 0 1px #ddd inset;float:none;height:400px;margin:auto;width:100%}
+
+.M8C button{background-color:#eee;border:0 none;box-shadow:0 0 1px #444 inset;color:#444;cursor:pointer;float:right;font:14px droid arabic kufi;height:30px;width:49.5%;transition:all .7s ease 0s}
+
+.button .moaina{margin-left:1%}
+
+.button button:hover{background-color:#4b0082;color:#fff}
